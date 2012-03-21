@@ -3,4 +3,6 @@ World of Warcraft Lua Unlocker
 This program will unlock all of World of Warcraft's Lua functions for any version of WoW after 2.0. It must be built as a DLL and then injected into World of Warcraft.
 It uses pattern scanning to find where to patch.
 
-Credit to _Mike for the Lua unlock method (I didn't want to find another method, since this method is public anyway), as it uses the method he posted here: http://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-programs/wow-memory-editing/322192-question-lua-protection-disabler-4-0-6a-2.html#post2200401
+Credit to _Mike for the Lua unlock method, as it is similar to the method he posted here: http://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-programs/wow-memory-editing/322192-question-lua-protection-disabler-4-0-6a-2.html#post2200401
+
+This uses the same Lua unlock method as OHack, so if OHack's Lua unlock method becomes detected then this will too!
