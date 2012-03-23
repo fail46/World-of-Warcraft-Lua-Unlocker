@@ -65,5 +65,5 @@ int __stdcall DllMain (void* Module, unsigned long Reason, void*)
 		MessageBox(FindWindow("GxWindowClass", "World of Warcraft"), "Lua unlocked.", "Success", MB_OK);
 	}
 
-	return 0;
+	return 1;
 }
